@@ -5,7 +5,7 @@ Website for girlfriend's macramé business
 
 Find the website at olivercodesign.com
 
-![Screenshot](ocdscreenshot.png)
+![Screenshot](images/ocdscreenshot.png)
 
 ## More Information
 
