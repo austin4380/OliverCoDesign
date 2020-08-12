@@ -3,7 +3,7 @@ Website for girlfriend's macramé business
 
 ## Accessing the Website
 
-Find the website at [olivercodesign.com](olivercodesign.com)
+Find the website at [olivercodesign.com](https://olivercodesign.com)
 
 ![Screenshot](images/ocdscreenshot.png)
 
